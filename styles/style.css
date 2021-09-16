@@ -10,10 +10,10 @@ a {
   opacity: 1;
 }
 
-section, h1, h2, h3, p, div, img{
+section, h1, h2, h4, p, div, img{
   margin:0;
 } 
-h4
+h3
 {
   margin:0;
   font-weight:normal;
